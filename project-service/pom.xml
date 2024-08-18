@@ -11,6 +11,9 @@
 
     <artifactId>project-service</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>demo-service-provider</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
